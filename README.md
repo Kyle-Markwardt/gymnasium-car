@@ -1,5 +1,5 @@
 # Self-Driving Car Reinforcement Learning
-This project uses reinforcement learning (RL) in the OpenAI Gymnasium Car Racing Environment to teach the car how to drive on the track.
+This project uses reinforcement learning (RL) in the [OpenAI Gymnasium Car Racing Environment](https://gymnasium.farama.org/environments/box2d/car_racing/) to teach the car how to drive on the track.
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
