@@ -33,7 +33,7 @@ Controls the clipping of the policy probability ratios during the training proce
 I used the default and a formula which decreases the `clip_range` over time, linearly.
 ![clip_range](images/training_logs/clip_range)
 Result:
-![clipping](images/training_logs/clipping)
+![clipping](images/training_logs/all/Xnip2024-07-18_15-46-31.jpg)
 
 ### Batch Size
 Determines how many experiences (combinations of state, action, reward, etc.) are used in a single forward and backward pass of the neural network.
