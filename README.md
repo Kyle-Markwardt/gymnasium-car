@@ -129,7 +129,7 @@ Combined loss:
 
 1,000,000 training steps
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="images/training_logs/" width="200" height="200" alt="gif3">
+  <img src="images/training_logs/all/Xnip2024-07-18_16-18-17.jpg" width="200" height="200" alt="gif3">
   <img src="images/gifs/ppo_carracing_1000000_video_v1.gif" width="200" height="200" alt="gif4">
 </div>
 
