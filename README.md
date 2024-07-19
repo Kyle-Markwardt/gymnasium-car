@@ -6,7 +6,6 @@ This project uses reinforcement learning (RL) in the OpenAI Gymnasium Car Racing
   <img src="images/gifs/ppo_carracing_10000_video_v1.gif" width="200" height="200" alt="gif1">
   <img src="images/gifs/ppo_carracing_1000000_video_v1.gif" width="200" height="200" alt="gif2">
   <img src="images/gifs/ppo_carracing_v3_1000000_video.gif" width="200" height="200" alt="gif3">
-  <img src="images/gifs/ppo_carracing_v4_200000_video.gif" width="200" height="200" alt="gif4">
   <img src="images/gifs/ppo_carracing_v4_490000_video.gif" width="200" height="200" alt="gif4">
 </div>
 
