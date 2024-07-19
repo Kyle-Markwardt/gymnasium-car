@@ -91,7 +91,7 @@ Combined loss:
 
 490,000 training steps
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="images/training_logs/" width="200" height="200" alt="gif3">
+  <img src="images/training_logs/all/Xnip2024-07-18_16-16-57.jpg" width="500" height="200" alt="gif3">
   <img src="images/gifs/ppo_carracing_v4_490000_video.gif" width="200" height="200" alt="gif4">
 </div>
 ### Model 3
