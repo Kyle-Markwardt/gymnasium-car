@@ -108,10 +108,10 @@ Combined loss:
 </div>
 
 ### Model 2
-1,000,000 training steps
+930,000 training steps
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="images/training_logs/all/Xnip2024-07-18_16-17-57.jpg" width="500" height="200" alt="gif3">
-  <img src="images/gifs/ppo_carracing_v2_1000000_video.gif" width="200" height="200" alt="gif4">
+  <img src="images/gifs/ppo_carracing_v2_930000_video.gif" width="200" height="200" alt="gif4">
 </div>
 
 ### Model 1
