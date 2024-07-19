@@ -53,6 +53,7 @@ Passes before policy update:
 
 ### Validation Function Coefficient
 In PPO, the combined loss function typically has three main components:
+![combined_loss](images/training_logs/all/Xnip2024-07-18_15-48-14.jpg)
 
 1.  **Policy Loss**: Encourages the policy to improve the expected return.
 ![policyloss](policy_loss)
