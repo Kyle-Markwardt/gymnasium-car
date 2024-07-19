@@ -57,12 +57,11 @@ In PPO, the combined loss function typically has three main components:
 1.  **Policy Loss**: Encourages the policy to improve the expected return.
 ![policyloss](images/training_logs/all/Xnip2024-07-18_15-48-37.jpg)
 2.  **Value Function Loss**: Ensures the value function accurately predicts the expected returns.
-![vfloss](vfloss)
+![vfloss](images/training_logs/all/Xnip2024-07-18_15-49-15.jpg)
 3.  **Entropy Bonus**: Encourages exploration by penalizing deterministic policies.
 ![entropy](images/training_logs/all/Xnip2024-07-18_15-46-00.jpg)
 
-Combined loss:
-![combined_loss](images/training_logs/all/Xnip2024-07-18_15-48-14.jpg)
+
 
 
 The value function loss measures the difference between the predicted value by the critic and the actual returns observed. By adjusting the value function coefficient, you are essentially determining how much emphasis to put on improving the value function relative to the policy.
@@ -76,7 +75,9 @@ Used:
 - v3: 0.25
 - v4: 0.3
 I think this parameter may have had the greatest negative impact on later models.
-![loss](loss)
+
+Combined loss:
+![combined_loss](images/training_logs/all/Xnip2024-07-18_15-48-14.jpg)
 
 
 ## Results
