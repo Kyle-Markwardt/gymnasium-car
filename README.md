@@ -12,7 +12,7 @@ This project uses reinforcement learning (RL) in the OpenAI Gymnasium Car Racing
 ## Models
 
 Four models were trained using stable baselines Proximal Policy Optimization (PPO) and adjusting the hyperparameters in search of the best outcome.
-![Rewards](images/training_logs/Xnip2024-07-18_15-47-12.jpg)
+![Rewards](images/training_logs/all/Xnip2024-07-18_15-47-12.jpg)
 
 
 ## HyperParameters
