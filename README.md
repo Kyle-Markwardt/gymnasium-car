@@ -24,6 +24,7 @@ Changes:
 
 ### Learning Rate
 I changed the learning rate from the default twice in the code, however TensorBoard showed an unchanged rate. No errors were thrown, so not sure what the issue was. Unfortunate because this is a main parameter and should have given me more control over the training.
+![learning_rate](images/training_logs/all/Xnip2024-07-18_15-47-59.jpg)
 
 ### Clip Range
 Controls the clipping of the policy probability ratios during the training process. This clipping is crucial for ensuring stable and reliable updates to the policy, preventing overly large updates that could destabilize training.
