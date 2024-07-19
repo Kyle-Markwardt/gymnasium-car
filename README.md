@@ -16,7 +16,7 @@ Four models were trained using stable baselines Proximal Policy Optimization (PP
 
 
 ## HyperParameters
-![Hyperparameters](images/hyperparameters.jpg)
+![Hyperparameters](images/training_logs/all/Xnip2024-07-18_13-29-18.jpg)
 ![highlighted_changes](images/changes.jpg)
 
 
