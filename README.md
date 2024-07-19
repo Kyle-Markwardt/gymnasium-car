@@ -31,7 +31,7 @@ Controls the clipping of the policy probability ratios during the training proce
 -   A smaller `clip_range` results in more conservative updates, potentially slowing down training but increasing stability. A larger `clip_range` allows for more significant updates but can risk instability.
 
 I used the default and a formula which decreases the `clip_range` over time, linearly.
-![clip_range](images/training_logs/clip_range)
+![clip_range](images/training_logs/all/Xnip2024-07-18_15-46-13.jpg)
 Result:
 ![clipping](images/training_logs/all/Xnip2024-07-18_15-46-31.jpg)
 
