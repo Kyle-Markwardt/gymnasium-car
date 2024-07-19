@@ -118,13 +118,13 @@ Combined loss:
 ### Model 1
 10,000 training steps
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="images/training_logs/" width="200" height="200" alt="gif3">
+  <img src="images/training_logs/all/Xnip2024-07-18_16-16-26.jpg" width="500" height="200" alt="gif3">
   <img src="images/gifs/ppo_carracing_10000_video_v1.gif" width="200" height="200" alt="gif4">
 </div>
 
-460,000 training steps
+#### WINNER: 460,000 training steps
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="images/training_logs/" width="200" height="200" alt="gif3">
+  <img src="images/training_logs/all/Xnip2024-07-18_16-16-00.jpg" width="500" height="200" alt="gif3">
   <img src="images/gifs/ppo_carracing_460000_video_v1.gif" width="200" height="200" alt="gif4">
 </div>
 
@@ -136,7 +136,11 @@ Combined loss:
 
 
 # Conclusions
+- Scores above 900: Generally considered excellent and indicative of a highly proficient policy.
+- Scores between 600-900: Reflect a good performance where the model is reasonably effective at navigating the track and avoiding penalties.
+- Scores below 600: Suggest the model might need further tuning and improvement to better learn the task.
 
-
+Reaching a score of 800 puts the model in the range of "solid". 
+I plan to try another run with a vf_coef of 0.4 and a large batch size (128 or 256), and increasing the clip_range above 0.2, maybe to stable 0.3 or 0.25.
 
 
